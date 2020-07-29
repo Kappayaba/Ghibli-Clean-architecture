@@ -1,0 +1,4 @@
+include ':cache'
+include ':remote'
+include ':data'
+include ':app'

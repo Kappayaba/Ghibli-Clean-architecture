@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ghibli API + Clean architecture</string>
+
+    <!-- ###  Item Ghibli Strings  ### -->
+
+    <string name="ghibli_title">Mon voisin Totoro</string>
+    <string name="ghibli_description">Totoro est une créature unique de caractère adorable, ressemblant à un mammifère de type plantigrade vivant dans une forêt dont il en est le roi, l\'esprit unique et à la fois le gardien. Il est une légende parmi les hommes</string>
+    <string name="ghibli_director">Hayao Miyazaki</string>
+    <string name="ghibli_producer">Hayao Miyazaki</string>
+    <string name="ghibli_date">1988</string>
+
+    <!-- ###  Error Handling message ### -->
+
+    <string name="empty_list">No data found</string>
+    <string name="error_list">Issue while retrieving data</string>
+    <string name="retry_error">retry</string>
+
+</resources>
